@@ -1,6 +1,6 @@
 # PyCir
 
-> ### A python-based circuit simulator with extreme flexibility, for extensive use in self-customed circuit simulation, ai-based circuit design automation, or reinforvement learning ......
+> ### A python-based circuit simulator with extreme flexibility, for extensive use in self-customed circuit simulation, ai-based circuit design automation, or reinforcement learning ......
 > 
 > 
 
